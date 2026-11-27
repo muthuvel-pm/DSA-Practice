@@ -5,7 +5,7 @@ My solutions to LeetCode problems.
 <!-- stats:start -->
 | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|
-| 5 | 0 | 0 | 5 |
+| 6 | 0 | 0 | 6 |
 <!-- stats:end -->
 
 ## Problems
@@ -18,4 +18,5 @@ My solutions to LeetCode problems.
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | Math, Number Theory | [Python](Easy/2413-smallest-even-multiple/solution.py) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | Math | [Python](Easy/2469-convert-the-temperature/solution.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Easy | Math | [Python](Easy/2520-count-the-digits-that-divide-a-number/solution.py) |
+| 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | Easy | Math | [Python](Easy/2806-account-balance-after-rounded-purchase/solution.py) |
 <!-- problems:end -->
